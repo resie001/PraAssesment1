@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PraAssesment1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="segitiga_siku_siku">Segitiga Siku - Siku</string>
+    <string name="masukkan_panjang">Masukkan Panjang</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="masukkan_lebar">Masukkan Lebar</string>
+    <string name="hitung">Hitung</string>
+    <string name="luas">Luas</string>
+    <string name="keliling">Keliling</string>
+    <string name="share">Share</string>
+    <string name="ade_resie_muchorobbi_setiawan">Ade Resie Muchorobbi Setiawan</string>
+    <string name="nim">6706184007</string>
+    <string name="kelas">D3IF - 42 - 02</string>
+    <string name="about">About</string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="masukkan_alas">Masukkan Alas</string>
+    <string name="masukkan_tinggi">Masukkan Tinggi</string>
+</resources>
